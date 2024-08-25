@@ -8,8 +8,7 @@ import {
   html,
   css,
   reactjs,
-  redux,
-  tailwind,
+  framermotion,
   nodejs,
   mongodb,
   git,
@@ -23,6 +22,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  nestjs,
 } from "../assets";
 
 export const navLinks = [
@@ -81,16 +81,16 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
+    name: "Framer motion",
+    icon: framermotion,
   },
   {
     name: "Node JS",
     icon: nodejs,
+  },
+  {
+    name: "Nest JS",
+    icon: nestjs,
   },
   {
     name: "MongoDB",
